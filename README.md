@@ -1,2 +1,2 @@
 # ProyectRTMP
-💻💎📶Proyect RTMP Using DCHP to connect streams and pop up (Enterprise use)
+[**MIGRATED TO MKS_STREAMING**](https://github.com/LUIS9799/PMKS_Streaming)
